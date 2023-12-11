@@ -2,7 +2,7 @@
 
 There's so much I could say about how challenging this Module 6 homework was for me. 
 It was significantly less straightforward than the last challenges.
-I couldn't get the URL's to work. I have significant doubts that my results are correct.
+I couldn't get the URL's to work. I have doubts that my results are correct.
 I wanted to comprehend this lesson better than I did.
 
 
