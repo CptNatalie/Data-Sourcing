@@ -11,3 +11,4 @@ You've been tasked to prepare some data for a recommendation system to help peop
 
 # References:
 I consulted my teacher Anthony, teachers assistants, class mates, & ChatGPT for this one.
+https://chat.openai.com/
